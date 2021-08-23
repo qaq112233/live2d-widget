@@ -14,6 +14,10 @@
 	writing-mode: vertical-rl;
 }
 
+#waifu {
+  z-index: 1000 !important;
+}
+
 #waifu-toggle.waifu-toggle-active {
 	margin-left: -50px;
 }
